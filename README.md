@@ -15,4 +15,4 @@ list of interesting links
 -	Understand VXLAN:  https://vincent.bernat.ch/en/blog/2017-vxlan-linux
 -	AWS Advanced Networking Speciality - curriculum / certification
 -	UK Government Publishes List of Ubuntu 18.04 LTS Security Tips - https://www.omgubuntu.co.uk/2018/07/ubuntu-18-04-security-tips/amp
--	
+- Wireless ref: Antenna Patterns and Their Meaning - Cisco - https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-antennas-accessories/prod_white_paper0900aecd806a1a3e.html
